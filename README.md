@@ -28,3 +28,4 @@ Minha jornada no universo da programação é marcada por, aprendizado constante
 </div>
 
 
+![Snake animation](https://github.com/VitoriaPereiraKlapowsko/VitoriaPereiraKlapowsko/blob/output/github-contribution-grid-snake.svg)
