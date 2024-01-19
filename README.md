@@ -1,5 +1,5 @@
 
-👋<strong>Hello World! Sou a Vitoria Pereira Klapowsko</strong>" 💻✨ 
+👋<strong>Hello World! Sou a Vitoria Pereira Klapowsko</strong> 💻✨ 
 
 Uma entusiasta da tecnologia de 19 anos, atualmente navegando no 5° semestre da faculdade de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) 🥸. 
 
