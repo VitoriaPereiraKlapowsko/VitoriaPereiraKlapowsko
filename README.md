@@ -28,3 +28,4 @@ Minha jornada no universo da programação é marcada por, aprendizado constante
   <a href="https://www.linkedin.com/in/vitoriapereiraklapowsko/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
 
+![Snake animation](https://github.com/VitoriaPereiraKlapowsko/VitoriaPereiraKlapowsko/blob/output/github-contribution-grid-snake.svg)
