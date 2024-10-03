@@ -1,7 +1,7 @@
 
 👋<strong>Hello World! Sou a Vitoria Pereira Klapowsko</strong> 💻✨ 
 
-Uma entusiasta da tecnologia de 19 anos, atualmente navegando no 6° semestre da faculdade de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) 🥸. 
+Uma entusiasta da tecnologia de 20 anos, atualmente navegando no 6° semestre da faculdade de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) 🥸. 
 
 Minha jornada no universo da programação é marcada por, aprendizado constante e a busca incansável por soluções inovadoras... Codificando um byte de cada vez 
 🤭🚀
