@@ -1,7 +1,7 @@
 
 👋<strong>Hello World! Sou a Vitoria Pereira Klapowsko</strong> 💻✨ 
 
-Desenvolvedora de 20 anos, formada em Análise e Desenvolvimento de Sistemas 🥸. 
+Desenvolvedora de 21 anos, formada em Análise e Desenvolvimento de Sistemas, especialista em Ciência de Dados e Inteligência Artificial e Pós Graduanda em Segurança e Defesa Cibernética 🥸. 
 
 Minha jornada no universo da programação é marcada por, aprendizado constante e a busca incansável por soluções inovadoras... Codificando um byte de cada vez 
 🤭🚀
